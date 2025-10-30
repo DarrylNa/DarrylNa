@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darryl Arkan Nalanda</h1>
-<h3 align="center">A Computer Science graduate from Bina Nusantara University, I specialize in UI/UX design and game design, with experience in mobile application development gained during an internship. Currently, I am advancing my skills in Python programming to support my career in IT.</h3>
+<h3 align="center">A Computer Science graduate from Bina Nusantara University, I specialize in UI/UX design and game design, with experience in mobile application development gained during an internship. Currently, I am advancing my skills in Python and Javascript programming to support my career in IT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darrylna&label=Profile%20views&color=0e75b6&style=flat" alt="darrylna" /> </p>
 
